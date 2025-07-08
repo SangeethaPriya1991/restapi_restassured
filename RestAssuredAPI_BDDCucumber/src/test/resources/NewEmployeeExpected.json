@@ -1,0 +1,10 @@
+{
+  "Http Status": "OK",
+  "Message": "Successfully created EmployeeDetails",
+  "Data": {
+    "id": "107",
+    "name": "Francis",
+    "email": "francis@example.com",
+    "phone": "9787764654"
+  }
+}

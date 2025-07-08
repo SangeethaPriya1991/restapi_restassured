@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "Http Status": { "type": "string" },
+    "Message": { "type": "string" },
+    "Data": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string" },
+          "name": { "type": "string" },
+          "email": { "type": "string" },
+          "phone": { "type": "string" }
+        },
+        "required": ["id", "name", "email", "phone"]
+      }
+    }
+  },
+  "required": ["Http Status", "Message", "Data"]
+}

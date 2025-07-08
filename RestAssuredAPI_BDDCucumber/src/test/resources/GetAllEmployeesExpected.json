@@ -1,0 +1,48 @@
+{
+  "Http Status": "OK",
+  "Message": "All employee details retrieved successfully",
+  "Data": [
+    {
+      "id": "101",
+      "name": "Sarah",
+      "email": "sarah@example.com",
+      "phone": "1234345"
+    },
+    {
+      "id": "102",
+      "name": "Yosef",
+      "email": "yosef@example.com",
+      "phone": "56745367"
+    },
+    {
+      "id": "103",
+      "name": "Geneia",
+      "email": "geneia@example.com",
+      "phone": "237898498"
+    },
+    {
+      "id": "104",
+      "name": "Shlomo",
+      "email": "shlomo@example.com",
+      "phone": "868756537"
+    },
+    {
+      "id": "105",
+      "name": "Rahul Leo",
+      "email": "rahul_leo@example.com",
+      "phone": "37687564785"
+    },
+    {
+      "id": "106",
+      "name": "Nancy",
+      "email": "nancy@example.com",
+      "phone": "88666453"
+    },
+    {
+      "id": "107",
+      "name": "Francis",
+      "email": "francis@example.com",
+      "phone": "9787764654"
+    }
+  ]
+}

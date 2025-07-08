@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "Http Status": {
+      "type": "string"
+    },
+    "Message": {
+      "type": "string"
+    },
+    "Data": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "Http Status",
+    "Message",
+    "Data"
+  ]
+}
